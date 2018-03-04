@@ -42,10 +42,10 @@ Links
     :target: https://coveralls.io/r/Javex/pyramid_crud?branch=master
     :alt: Coverage Status
 
-.. |LatestVersion| image:: https://pypip.in/v/pyramid_crud/badge.png
+.. |LatestVersion| image:: https://img.shields.io/pypi/v/pyramid_crud.svg
    :target: https://pypi.python.org/pypi/pyramid_crud/
    :alt: Latest Version
 
-.. |License| image:: https://pypip.in/license/pyramid_crud/badge.png
+.. |License| image:: https://img.shields.io/pypi/l/pyramid_crud.svg
     :target: https://pypi.python.org/pypi/pyramid_crud/
     :alt: License
